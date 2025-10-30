@@ -1,0 +1,7 @@
+Completed: https://rfc-editor.org/rfc/rfc1021.txt
+Completed: https://rfc-editor.org/rfc/rfc1015.txt
+Completed: https://rfc-editor.org/rfc/rfc1011.txt
+Completed: https://rfc-editor.org/rfc/rfc1019.txt
+Completed: https://rfc-editor.org/rfc/rfc1006.txt
+Completed: https://rfc-editor.org/rfc/rfc1020.txt
+Completed: https://rfc-editor.org/rfc/rfc1014.txt
